@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://raphael-mabille.github.io/my-app",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
